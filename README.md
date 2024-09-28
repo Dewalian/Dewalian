@@ -49,8 +49,57 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 <p width="500px" align="center"><a href="https://jeje8.itch.io/rhythmpong-coop">Itch Page</p>
   </td>
   </tr>
-  
 
+ </tbody>
+</table>
+<!-- ============================================= -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">TaskForce</th>
+      <th width="500px" align="center">TOADS-3D</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+
+![0927-copy](https://github.com/user-attachments/assets/4988a032-071b-4342-be22-9db5a2dda57d)
+
+  </td>
+  <td>
+    
+![toaddss2 (2)](https://github.com/user-attachments/assets/da92f712-d73d-48a1-990c-e6ee6579386b)
+
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks."
+  </td>
+  <td valign="text-top">
+TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a helicopter crash in a zombie-infested city. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Github Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">Github Page</p>
+  </td>
+  </tr>
+ 
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
+  </td>
+  <td valign="text-top">
+Itch Page
+  </td>
+  </tr>
  
   <td>
 
