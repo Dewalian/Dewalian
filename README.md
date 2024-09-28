@@ -41,7 +41,6 @@ What if the classic game Pong is played cooperatively, but at the same time you 
   </td>
   </tr>
 
-    <tr width="500px" align="center">
   <td valign="text-top">
 <p width="500px" align="center"><a href="https://github.com/Dewalian/VOID">Github Page</p>
   </td>
