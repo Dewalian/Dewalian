@@ -45,7 +45,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 <p width="500px" align="center"><a href="https://github.com/Dewalian/VOID">Github Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://jeje8.itch.io/rhythmpong-coop">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/Dewalian/RhythmPong-Coop">Github Page</p>
   </td>
   </tr>
 
