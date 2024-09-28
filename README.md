@@ -73,13 +73,21 @@ A tower defense game where you have to protect the scattered crystals from the d
   <td valign="text-top">
 In a mysterious island, a freaky giant was spotted. A team has been sent to deal with them. A turn based puzzle game where you drop your robots from the sky to secure areas full of giants. You only have a limited supply of robots. Make sure you use them wisely, Commander. I'm the game designer of this game. It's quite difficult to design the levels of a puzzle game I must say.
   </td>
-  </tr>
- 
+<!-- ============================================= -->
+<h2>My Tools</h2>
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">Websites I Often Visits</th>
+      <th width="500px" align="center">Tools I Use For Game Development</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="left">
   <td>
 
   - Freesound
   - Itch.io
-  - Aseprite
   - Unity Asset Store
   
   </td>
@@ -90,6 +98,7 @@ In a mysterious island, a freaky giant was spotted. A team has been sent to deal
   - Figma
   - Visual Studio 2022
   - Visual Studio Code
+  - Aseprite
 
   </td>
   </tr>
