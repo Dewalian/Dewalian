@@ -34,7 +34,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://jeje8.itch.io/void">Github Page</p>
+<p width="500px" align="center"><a href="">Github Page</p>
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="">Github Page</p>
@@ -43,7 +43,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 
   <tr width="500px" align="center">
   <td valign="text-top">
-Itch Page
+<p width="500px" align="center"><a href="https://jeje8.itch.io/void">Itch Page</p>
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="">Itch Page</p>
