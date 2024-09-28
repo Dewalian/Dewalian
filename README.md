@@ -15,27 +15,26 @@
   <tr width="500px" align="center">
   <td>
     
-!![Screenshot (507)](https://github.com/user-attachments/assets/6449a760-cd4e-4e8a-a120-dc539a046199)
+![VOID](https://github.com/user-attachments/assets/6e04dfde-f5ef-4996-b23e-b088621b5a46)
 
   </td>
   <td>
 
-!![image](https://github.com/user-attachments/assets/153ff9e5-c422-4d55-9249-3ac372291bcf)
+![image](https://github.com/user-attachments/assets/153ff9e5-c422-4d55-9249-3ac372291bcf)
 
   </td>
   </tr>
   <tr width="500px">
   <td valign="text-top">
-VOID is a topdown shooter endless game, where you are a lone spaceship in vast void of space, trying to survive against hordes of aliens. You knew you don't have a chance, but you kept going until the end. I created this game myself in a week, where I also draws all the art assets. This game is the first game on my weekly game programming challenge.
-  </td>
+VOID is a topdown shooter endless game, where you are a lone spaceship in vast void of space, trying to survive against hordes of aliens. You knew you don't have a chance, but you kept going until the end. I created this game myself in a week, where I also draws all the art assets.
   <td valign="text-top">
-ppp
+What if the classic game Pong is played cooperatively, but at the same time you have to play a rhythm game!? Welcome to RhythmPong Coop! A wild idea that I had that i just couldn't resist to make it, this game was a lot of fun to make. I also created this game myself in about a week.
   </td>
   </tr>
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="">Github Page</p>
+<p width="500px" align="center"><a href="https://jeje8.itch.io/void">Github Page</p>
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="">Github Page</p>
