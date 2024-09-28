@@ -73,7 +73,7 @@ A tower defense game where you have to protect the scattered crystals from the d
 In a mysterious island, a freaky giant was spotted. A team has been sent to deal with them. A turn based puzzle game where you drop your robots from the sky to secure areas full of giants. You only have a limited supply of robots. Make sure you use them wisely, Commander. I'm the game designer of this game. It's quite difficult to design the levels of a puzzle game I must say.
   </td>
 <!-- ============================================= -->
-<h2>My Tools</h2>
+<h2>Other Projects</h2>
 <table>
   <thead>
     <tr>
