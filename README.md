@@ -19,8 +19,8 @@
 
   </td>
   <td>
-
-![image](https://github.com/user-attachments/assets/153ff9e5-c422-4d55-9249-3ac372291bcf)
+    
+![RhythmPong Coop](https://github.com/user-attachments/assets/4f61ee90-c477-42b0-82ec-ffc1c559a003)
 
   </td>
   </tr>
