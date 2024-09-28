@@ -56,15 +56,16 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">TaskForce</th>
-      <th width="500px" align="center">TOADS-3D</th>
+      <th width="500px" align="center">Crystal Guardian</th>
+      <th width="500px" align="center">Fatebringers</th>
     </tr>
   </thead>
   <tbody>
   <tr width="500px" align="center">
   <td>
 
-![0927-copy](https://github.com/user-attachments/assets/4988a032-071b-4342-be22-9db5a2dda57d)
+![CrystalGuardianGIF](https://github.com/user-attachments/assets/f7c3cd9a-46b5-41d4-829a-d35edf6455f0)
+
 
   </td>
   <td>
@@ -76,19 +77,10 @@ What if the classic game Pong is played cooperatively, but at the same time you 
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks."
+A tower defense game where you have to protect the scattered crystals from the dangerous creatures in the forest. You play as Luke, a knight from the Gear'm Kingdom where you have to search for resource on the map to build unique offensive towers across the paths.
   </td>
   <td valign="text-top">
-TOADS-3D [Prototype] is a 3D FPS where you play as a police officer surviving a helicopter crash in a zombie-infested city. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
-  </td>
-  </tr>
-
-  <tr width="500px" align="center">
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Github Page</p>
-  </td>
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">Github Page</p>
+In a mysterious island, a freaky giant was spotted. A team has been sent to deal with them. A turn based puzzle game where you drop your robots from the sky to secure areas full of giants. You only have a limited supply of robots. Make sure you use them wisely, Commander.
   </td>
   </tr>
  
