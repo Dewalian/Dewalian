@@ -34,15 +34,6 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="">Github Page</p>
-  </td>
-  <td valign="text-top">
-<p width="500px" align="center"><a href="">Github Page</p>
-  </td>
-  </tr>
-
-  <tr width="500px" align="center">
-  <td valign="text-top">
 <p width="500px" align="center"><a href="https://jeje8.itch.io/void">Itch Page</p>
   </td>
   <td valign="text-top">
@@ -77,19 +68,10 @@ What if the classic game Pong is played cooperatively, but at the same time you 
   </tr>
   <tr width="500px">
   <td valign="text-top">
-A tower defense game where you have to protect the scattered crystals from the dangerous creatures in the forest. You play as Luke, a knight from the Gear'm Kingdom where you have to search for resource on the map to build unique offensive towers across the paths.
+A tower defense game where you have to protect the scattered crystals from the dangerous creatures in the forest. You play as Luke, a knight from the Gear'm Kingdom where you have to search for resource on the map to build unique offensive towers across the paths. I am the only artist in this game, where I use Aseprite to make pixel arts.
   </td>
   <td valign="text-top">
-In a mysterious island, a freaky giant was spotted. A team has been sent to deal with them. A turn based puzzle game where you drop your robots from the sky to secure areas full of giants. You only have a limited supply of robots. Make sure you use them wisely, Commander.
-  </td>
-  </tr>
- 
-  <tr width="500px" align="center">
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
-  </td>
-  <td valign="text-top">
-Itch Page
+In a mysterious island, a freaky giant was spotted. A team has been sent to deal with them. A turn based puzzle game where you drop your robots from the sky to secure areas full of giants. You only have a limited supply of robots. Make sure you use them wisely, Commander. I'm the game designer of this game. It's quite difficult to design the levels of a puzzle game I must say.
   </td>
   </tr>
  
