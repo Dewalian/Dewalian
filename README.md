@@ -8,7 +8,7 @@
   <thead>
     <tr>
       <th width="500px" align="center">VOID</th>
-      <th width="500px" align="center">RhythmPong (in dev)</th>
+      <th width="500px" align="center">RhythmPong Coop</th>
     </tr>
   </thead>
   <tbody>
@@ -46,7 +46,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 <p width="500px" align="center"><a href="https://jeje8.itch.io/void">Itch Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="">Itch Page</p>
+<p width="500px" align="center"><a href="https://jeje8.itch.io/rhythmpong-coop">Itch Page</p>
   </td>
   </tr>
   
