@@ -61,8 +61,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
   </td>
   <td>
     
-![toaddss2 (2)](https://github.com/user-attachments/assets/da92f712-d73d-48a1-990c-e6ee6579386b)
-
+![369697446-c6937317-087e-447e-8739-5451dec3de78](https://github.com/user-attachments/assets/6b7ff005-58c3-41cd-a7c5-8a67ad4961e3)
 
   </td>
   </tr>
