@@ -7,8 +7,43 @@
 <table>
   <thead>
     <tr>
+      <th width="1000px" align="center">RhythmPong Co-op</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="1000px" align="center">
+  <td>
+    
+![RhythmPong Coop](https://github.com/user-attachments/assets/4f61ee90-c477-42b0-82ec-ffc1c559a003)
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+What if the classic game Pong is played cooperatively, but at the same time you have to play a rhythm game!? Welcome to RhythmPong Coop! A wild idea that I had that i just couldn't resist to make it, this game was a lot of fun to make. I also created this game myself in about a week.
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://jeje8.itch.io/rhythmpong-coop">Itch Page</p>
+  </td>
+  </tr>
+
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/Dewalian/RhythmPong-Coop">Github Page</p>
+  </td>
+  </tr>
+
+ </tbody>
+</table>
+
+<!-- ============================================= -->
+<table>
+  <thead>
+    <tr>
       <th width="500px" align="center">VOID</th>
-      <th width="500px" align="center">RhythmPong Coop</th>
+      <th width="500px" align="center">Unpathed</th>
     </tr>
   </thead>
   <tbody>
@@ -20,7 +55,7 @@
   </td>
   <td>
     
-![RhythmPong Coop](https://github.com/user-attachments/assets/4f61ee90-c477-42b0-82ec-ffc1c559a003)
+![UnpathedGIF3](https://github.com/user-attachments/assets/189dff63-f429-45de-bf41-278c1dda3250)
 
   </td>
   </tr>
@@ -28,7 +63,7 @@
   <td valign="text-top">
 VOID is a topdown shooter endless game, where you are a lone spaceship in vast void of space, trying to survive against hordes of aliens. You knew you don't have a chance, but you kept going until the end. I created this game myself in a week, where I also draws all the art assets.
   <td valign="text-top">
-What if the classic game Pong is played cooperatively, but at the same time you have to play a rhythm game!? Welcome to RhythmPong Coop! A wild idea that I had that i just couldn't resist to make it, this game was a lot of fun to make. I also created this game myself in about a week.
+Rotate the stage to lead the ball to the next stage, and rotate it again, and to the next stage, and....so on. Where does the ball wants to go? Where does the wooden square leads the ball to? Does it ever ends? It's Unpathed. I programmed this game myself in only 5 days. It currently doesn't have a UI and Audio, but it's playable.
   </td>
   </tr>
 
@@ -37,7 +72,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 <p width="500px" align="center"><a href="https://jeje8.itch.io/void">Itch Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://jeje8.itch.io/rhythmpong-coop">Itch Page</p>
+<p width="500px" align="center"><a href="https://github.com/Dewalian/Unpathed">Itch Page</p>
   </td>
   </tr>
 
@@ -45,7 +80,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 <p width="500px" align="center"><a href="https://github.com/Dewalian/VOID">Github Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/Dewalian/RhythmPong-Coop">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/Dewalian/Unpathed">Github Page</p>
   </td>
   </tr>
 
