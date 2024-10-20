@@ -13,7 +13,7 @@
   <tr width="500px" align="center">
   <td>
     
-![Uploading AAA.gif…]()
+![AAA](https://github.com/user-attachments/assets/a69dbc8f-ce08-4874-abd4-3792bcdcd3c5)
 
   </td>
   <td>
@@ -153,6 +153,7 @@ In a mysterious island, a freaky giant was spotted. A team has been sent to deal
   - Visual Studio 2022
   - Visual Studio Code
   - Aseprite
+  - Blender
 
   </td>
   </tr>
