@@ -32,7 +32,7 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="">Itch Page</p>
+<p width="500px" align="center"><a href="https://jeje8.itch.io/absolute-aim-academy">Itch Page</p>
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="https://jeje8.itch.io/rhythmpong-coop">Itch Page</p>
