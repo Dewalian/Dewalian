@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-<p align="justify">Hi! I'm a game developer / programmer specialized in Unity. I'm always interested on programming difficult and complex game design, trying to push my skill and boundaries as a programmer. I'm currenty a student at Bina Nusantara University, Faculty of Computer Science, majoring in Game Application and Technology, fifth-semester. When it comes to programming, I specialize in structured code and scripts, making them as decoupled as possible to avoid further problems and easier to debug. I also am very flexible, as I have experience as a game artist and game designer.</p>
+<p align="justify">Hi! I'm a game developer / programmer specialized in Unity. I'm always interested on programming difficult and complex game design, trying to push my skill and boundaries as a programmer. I'm currenty a student at Bina Nusantara University, Faculty of Computer Science, majoring in Game Application and Technology, fifth-semester. When it comes to programming, I specialize in structured code and scripts, making them as decoupled as possible to avoid further problems and easier to debug. I'm very efficient and fast when it comes to finishing all sort of task. I also am very flexible, as I have experience as a game artist and game designer.</p>
 
 <h2>My Projects</h2>
 <table>
