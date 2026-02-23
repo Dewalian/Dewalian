@@ -5,8 +5,8 @@
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">Absolute Aim Academy</th>
-      <th width="500px" align="center">RhythmPong Co-op</th>
+      <th width="500px" align="center">Project Terra</th>
+      <th width="500px" align="center">30 Seconds</th>
     </tr>
   </thead>
   <tbody>
@@ -54,8 +54,8 @@ What if the classic game Pong is played cooperatively, but at the same time you 
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">VOID</th>
-      <th width="500px" align="center">Unpathed</th>
+      <th width="500px" align="center">Absolute Aim Academy</th>
+      <th width="500px" align="center">AutoCrops</th>
     </tr>
   </thead>
   <tbody>
@@ -73,9 +73,9 @@ What if the classic game Pong is played cooperatively, but at the same time you 
   </tr>
   <tr width="500px">
   <td valign="text-top">
-VOID is a topdown shooter endless game, where you are a lone spaceship in vast void of space, trying to survive against hordes of aliens. You knew you don't have a chance, but you kept going until the end. I created this game myself in a week, where I also draws all the art assets.
+Welcome to the Absolute Aim Academy, where your aim as a gunmen will be tested. Through various challenges, only the chosen with the most perfect aim can pass this academy. Can you? I created this game myself in about a week, where I also did some of the arts.
   <td valign="text-top">
-Rotate the stage to lead the ball to the next stage, and rotate it again, and to the next stage, and....so on. Where does the ball wants to go? Where does the wooden square leads the ball to? Does it ever ends? It's Unpathed. I programmed this game myself in only 5 days. It currently doesn't have a UI and Audio, but it's playable.
+Grow your crops and earn more money! This short idler incremental game was created in a week by myself, where I programmed and draw some of the assets.
   </td>
   </tr>
 
