@@ -62,12 +62,12 @@ Explore the new planet, search for various resources, assess the surrounding con
   <tr width="500px" align="center">
   <td>
     
-![VOID](https://github.com/user-attachments/assets/6e04dfde-f5ef-4996-b23e-b088621b5a46)
+![AAA](https://github.com/user-attachments/assets/a69dbc8f-ce08-4874-abd4-3792bcdcd3c5)
 
   </td>
   <td>
     
-![UnpathedGIF3](https://github.com/user-attachments/assets/189dff63-f429-45de-bf41-278c1dda3250)
+![autocrops (1)](https://github.com/user-attachments/assets/280780f6-5d3b-4621-838a-3f39b92b799d)
 
   </td>
   </tr>
