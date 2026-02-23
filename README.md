@@ -40,10 +40,10 @@ Explore the new planet, search for various resources, assess the surrounding con
   </tr>
 
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/Dewalian/Absolute-Aim-Academy">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/Dewalian/Brackeys-Game-Jam-2025.2">Github Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/Dewalian/RhythmPong-Coop">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/Dewalian/GMTK-Game-Jam-2025">Github Page</p>
   </td>
   </tr>
 
