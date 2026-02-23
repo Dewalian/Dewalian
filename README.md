@@ -5,37 +5,37 @@
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">Project Terra</th>
+      <th width="500px" align="center">Project: TERRA</th>
       <th width="500px" align="center">30 Seconds</th>
     </tr>
   </thead>
   <tbody>
   <tr width="500px" align="center">
   <td>
-    
-![AAA](https://github.com/user-attachments/assets/a69dbc8f-ce08-4874-abd4-3792bcdcd3c5)
+
+![Project Terra](https://github.com/user-attachments/assets/d98fab4a-efa7-4c67-b264-d15eb8b25ddb)
 
   </td>
   <td>
     
-![RhythmPong Coop](https://github.com/user-attachments/assets/4f61ee90-c477-42b0-82ec-ffc1c559a003)
+![30 Seconds](https://github.com/user-attachments/assets/e0688437-0d5b-42d6-8620-70b162c58333)
 
   </td>
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Welcome to the Absolute Aim Academy, where your aim as a gunmen will be tested. Through various challenges, only the chosen with the most perfect aim can pass this academy. Can you? I created this game myself in about a week, where I also did some of the arts.
+Explore the new planet, search for various resources, assess the surrounding conditions, and determine whether it is suitable for human habitation. This game was a submission to Brackeys Game Jam 2025.2.
   <td valign="text-top">
-What if the classic game Pong is played cooperatively, but at the same time you have to play a rhythm game!? Welcome to RhythmPong Coop! A wild idea that I had that i just couldn't resist to make it, this game was a lot of fun to make. I also created this game myself in about a week.
+30 Seconds is a game built around a Time Loop concept. In this game, you play as someone trapped in a strange place. Every 30 seconds, you’re sent back to where you started. This game was a submission to GMTK Game Jam 2025.
   </td>
   </tr>
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://jeje8.itch.io/absolute-aim-academy">Itch Page</p>
+<p width="500px" align="center"><a href="https://jeje8.itch.io/project-terra">Itch Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://jeje8.itch.io/rhythmpong-coop">Itch Page</p>
+<p width="500px" align="center"><a href="https://jeje8.itch.io/30-seconds">Itch Page</p>
   </td>
   </tr>
 
