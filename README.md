@@ -123,10 +123,10 @@ Grow your crops and earn more money! This short idler incremental game was creat
   </tr>
   <tr width="500px">
   <td valign="text-top">
-A tower defense game where you have to protect the scattered crystals from the dangerous creatures in the forest. You play as Luke, a knight from the Gear'm Kingdom where you have to search for resource on the map to build unique offensive towers across the paths. I am the only artist in this game, where I use Aseprite to make pixel arts.
+What if the classic game Pong is played cooperatively, but at the same time you have to play a rhythm game!? Welcome to RhythmPong Coop! A wild idea that I had that i just couldn't resist to make it, this game was a lot of fun to make. I also created this game myself in about a week.
   </td>
   <td valign="text-top">
-In a mysterious island, a freaky giant was spotted. A team has been sent to deal with them. A turn based puzzle game where you drop your robots from the sky to secure areas full of giants. You only have a limited supply of robots. Make sure you use them wisely, Commander. I'm the game designer of this game. It's quite difficult to design the levels of a puzzle game I must say.
+Rotate the stage to lead the ball to the next stage, and rotate it again, and to the next stage, and....so on. Where does the ball wants to go? Where does the wooden square leads the ball to? Does it ever ends? It's Unpathed. I programmed this game myself in only 5 days. It currently doesn't have a UI and Audio, but it's playable.
   </td>
     
   <!-- ============================================= -->
