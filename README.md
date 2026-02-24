@@ -89,10 +89,10 @@ Grow your crops and earn more money! This short idler incremental game was creat
   </tr>
 
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/Dewalian/VOID">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/Dewalian/Absolute-Aim-Academy">Github Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/Dewalian/Unpathed">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/Dewalian/AutoCrops">Github Page</p>
   </td>
   </tr>
 
