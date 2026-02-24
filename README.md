@@ -79,15 +79,6 @@ Grow your crops and earn more money! This short idler incremental game was creat
   </td>
   </tr>
 
-  <tr width="500px" align="center">
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://jeje8.itch.io/void">Itch Page</p>
-  </td>
-  <td valign="text-top">
-<p width="500px" align="center"><a href="">Itch Page</p>
-  </td>
-  </tr>
-
   <td valign="text-top">
 <p width="500px" align="center"><a href="https://github.com/Dewalian/Absolute-Aim-Academy">Github Page</p>
   </td>
