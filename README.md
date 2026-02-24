@@ -126,7 +126,7 @@ Grow your crops and earn more money! This short idler incremental game was creat
 What if the classic game Pong is played cooperatively, but at the same time you have to play a rhythm game!? Welcome to RhythmPong Coop! A wild idea that I had that i just couldn't resist to make it, this game was a lot of fun to make. I also created this game myself in about a week.
   </td>
   <td valign="text-top">
-Rotate the stage to lead the ball to the next stage, and rotate it again, and to the next stage, and....so on. Where does the ball wants to go? Where does the wooden square leads the ball to? Does it ever ends? It's Unpathed. I programmed this game myself in only 5 days. It currently doesn't have a UI and Audio, but it's playable.
+A tower defense game where you play as one of the seven deadly sins, facing against the other sins. Protect your kingdom against horde of incoming enemies. This game was created as a capstone project for my college.
   </td>
     
   <!-- ============================================= -->
