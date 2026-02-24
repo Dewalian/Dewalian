@@ -104,21 +104,20 @@ Grow your crops and earn more money! This short idler incremental game was creat
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">Crystal Guardian</th>
-      <th width="500px" align="center">Fatebringers</th>
+      <th width="500px" align="center">RhythmPong Coop</th>
+      <th width="500px" align="center">Unpathed</th>
     </tr>
   </thead>
   <tbody>
   <tr width="500px" align="center">
   <td>
 
-![CrystalGuardianGIF](https://github.com/user-attachments/assets/f7c3cd9a-46b5-41d4-829a-d35edf6455f0)
-
+![RhythmPong Coop](https://github.com/user-attachments/assets/4f61ee90-c477-42b0-82ec-ffc1c559a003)
 
   </td>
   <td>
     
-![369697446-c6937317-087e-447e-8739-5451dec3de78](https://github.com/user-attachments/assets/6b7ff005-58c3-41cd-a7c5-8a67ad4961e3)
+![UnpathedGIF3](https://github.com/user-attachments/assets/189dff63-f429-45de-bf41-278c1dda3250)
 
   </td>
   </tr>
