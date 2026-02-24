@@ -99,6 +99,38 @@ Grow your crops and earn more money! This short idler incremental game was creat
  </tbody>
 </table>
 <!-- ============================================= -->
+
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">Crystal Guardian</th>
+      <th width="500px" align="center">Fatebringers</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+
+![CrystalGuardianGIF](https://github.com/user-attachments/assets/f7c3cd9a-46b5-41d4-829a-d35edf6455f0)
+
+
+  </td>
+  <td>
+    
+![369697446-c6937317-087e-447e-8739-5451dec3de78](https://github.com/user-attachments/assets/6b7ff005-58c3-41cd-a7c5-8a67ad4961e3)
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+A tower defense game where you have to protect the scattered crystals from the dangerous creatures in the forest. You play as Luke, a knight from the Gear'm Kingdom where you have to search for resource on the map to build unique offensive towers across the paths. I am the only artist in this game, where I use Aseprite to make pixel arts.
+  </td>
+  <td valign="text-top">
+In a mysterious island, a freaky giant was spotted. A team has been sent to deal with them. A turn based puzzle game where you drop your robots from the sky to secure areas full of giants. You only have a limited supply of robots. Make sure you use them wisely, Commander. I'm the game designer of this game. It's quite difficult to design the levels of a puzzle game I must say.
+  </td>
+    
+  <!-- ============================================= -->
+    
 <table>
   <thead>
     <tr>
