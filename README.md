@@ -11,7 +11,7 @@
   <tbody>
     <tr width="1000px" align="center">
       <td>
-          <img width="500" height="1081" alt="Mystic Words" src="https://github.com/user-attachments/assets/f005814b-9d3d-4600-9774-0c04e6b6eb75" />
+          <img width="320" height="692" alt="Mystic Words" src="https://github.com/user-attachments/assets/37746f15-00f3-4a1a-89e8-d22158f0d50a" />
       </td>
      </tr>
     <tr width="1000px">
