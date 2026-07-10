@@ -1,7 +1,31 @@
   <h2>About Me</h2>
-<p align="justify">Hi! I'm a game developer / programmer specialized in Unity. I'm always interested on programming difficult and complex game design, trying to push my skill and boundaries as a programmer. I'm currenty a student at Bina Nusantara University, Faculty of Computer Science, majoring in Game Application and Technology, fifth-semester. When it comes to programming, I specialize in structured code and scripts, making them as decoupled as possible to avoid further problems and easier to debug. I'm very efficient and fast when it comes to finishing all sort of task. I also am very flexible, as I have experience as a game artist and game designer.</p>
+<p align="justify">Hi! I'm a game developer / programmer specialized in Unity. I'm always interested on programming difficult and complex game design, trying to push my skill and boundaries as a programmer. I'm currenty a student at Bina Nusantara University, majoring in Game Application and Technology. When it comes to programming, I specialize in structured code and scripts, making them as decoupled as possible to avoid further problems and easier to debug. I'm very efficient and fast when it comes to finishing all sort of task. I also am very flexible, as I have experience as a game artist and game designer.</p>
 
 <h2>My Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th width="1000px" align="center">Mystic Words</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr width="1000px" align="center">
+      <td>
+          <img width="500" height="1081" alt="Mystic Words" src="https://github.com/user-attachments/assets/f005814b-9d3d-4600-9774-0c04e6b6eb75" />
+      </td>
+     </tr>
+    <tr width="1000px">
+  <td valign="text-top">
+A mobile word search game I worked on when I was in Bumi Studio. I programmed the mechanics such as the letter wheel, tutorials, items and resources, and many more. I implemented the majority of the UIs and its functions. I also integrated the game to GPGS (Google Play Game System) to upload it to Play Store and to track achievement, as well as integrated it to Firebase Firestore to track the points for leaderboard.
+  </tr>
+    
+  <tr width="1000px" align="center">
+  <td valign="text-top">
+<p width="1000px" align="center"><a href="https://play.google.com/store/apps/details?id=com.bumistudio.mysticwords">Google Play Store Page</p>
+  </td>
+  </tr>
+  </tbody>
+</table>
 <table>
   <thead>
     <tr>
