@@ -29,6 +29,30 @@ A mobile word search game I worked on when I was in Bumi Studio. I programmed th
 <table>
   <thead>
     <tr>
+      <th width="1000px" align="center">Savants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr width="1000px" align="center">
+      <td>
+        <img width="600" height="336" alt="ezgif-8b1d0f1328bf2eda" src="https://github.com/user-attachments/assets/3314a1f3-8186-4c3a-9895-1a92c2bc031f" />
+      </td>
+     </tr>
+    <tr width="1000px">
+  <td valign="text-top">
+An ambitious solo project that i've been working on for nearly a year and ongoing. I created many systems such as a grid-tile system with many algorithms, character outfit system, day-night cycle, input system template, and many more.
+  </tr>
+    
+  <tr width="1000px" align="center">
+  <td valign="text-top">
+<p width="1000px" align="center"><p>Upcoming!</p>
+  </td>
+  </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
       <th width="500px" align="center">Project: TERRA</th>
       <th width="500px" align="center">30 Seconds</th>
     </tr>
